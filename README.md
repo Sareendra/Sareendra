@@ -2,8 +2,8 @@
 - 👀 I’m interested in imagination 
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to propose on lara
-- 📫 Finding a way reach ruby's home
-- 😄 Pronouns: ...
+- 📫 Finding a way to reach ruby's home
+- 😄 I'm tring to convince Alice
 - ⚡ Java is a powerful language that can be used to create anything you can imagine, including love.
 
 <!---
