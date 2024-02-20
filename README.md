@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sareendra
 - 👀 I’m interested in imagination 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently loving Java
 - 💞️ I’m looking to propose on lara
 - 📫 Finding a way to reach ruby's home
 - 😄 I'm tring to convince Alice
